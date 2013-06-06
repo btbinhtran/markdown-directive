@@ -1,0 +1,16 @@
+{
+  "name": "tower-markdown-directive",
+  "repo": "tower/markdown-directive",
+  "description": "Tower Markdown Directive component",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "tower/directive": "*",
+    "component/marked": "*"
+  },
+  "development": {
+    "visionmedia/mocha": "*"
+  },
+  "scripts": ["index.js"],
+  "license": "MIT"
+}
