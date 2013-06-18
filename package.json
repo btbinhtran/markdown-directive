@@ -1,5 +1,9 @@
 {
   "name": "tower-markdown-directive",
   "version": "0.0.1",
-  "main": "./index.js"
+  "main": "./index.js",
+  "dependencies": {
+    "marked": "~0.2.9",
+    "tower-directive": "*"
+  }
 }
